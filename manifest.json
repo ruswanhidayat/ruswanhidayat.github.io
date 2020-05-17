@@ -1,0 +1,21 @@
+{
+ "name": "@TaufiqHidayat23",
+ "short_name": "TaufiqH23",
+ "description": "A Personal Single Web Page",
+ "lang": "en-US",
+ "dir": "ltr",
+ "theme_color": "#414f57",
+ "start_url": ".",
+ "background_color": "#000",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "icons": [{
+   "src": "assets/img/icons/ar23logo72.png",
+   "sizes": "72x72",
+   "type": "image/png"
+  }, {
+   "src": "assets/img/icons/ar23logo512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }]
+}
